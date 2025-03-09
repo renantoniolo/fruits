@@ -7,7 +7,7 @@
   
  ## Print Screen :foggy:
  
-| ![image01](images/furit_print.gif) |
+| ![image01](images/fruit_print.gif) |
 |:---:|
 | Fruit |
 
